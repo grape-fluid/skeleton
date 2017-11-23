@@ -1,4 +1,4 @@
-# GrapeFluid/Skeleton
+# GrapeFluid/Skeleton <img align="right" height="40px" src="https://developers.grapesc.cz/logo_inline.png">
 
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/grape-fluid/skeleton.svg?style=flat-square)](https://packagist.org/packages/grape-fluid/skeleton)
 [![Licence](https://img.shields.io/packagist/l/grape-fluid/skeleton.svg?style=flat-square)](https://packagist.org/packages/grape-fluid/skeleton)
