@@ -1,0 +1,8 @@
+parameters:
+	database:
+		host: localhost
+		dbname:
+		user:
+		password:
+
+	secret: 'ftF%%}m~3DdW4f]%%bIlFah^wOR_7i3HuA_22fk]=e~8'

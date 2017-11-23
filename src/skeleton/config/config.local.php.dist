@@ -1,0 +1,10 @@
+<?php
+
+$params = [
+	'pluginDirs' => [],
+
+	//debug
+	"debug"    => false,
+	"maxDepth" => 2,
+	"maxLen"   => 150
+];

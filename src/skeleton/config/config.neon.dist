@@ -1,0 +1,3 @@
+parameters:
+    project:
+        layout: '%appDir%/resources/templates/@layout.latte'
