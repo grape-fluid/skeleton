@@ -12,9 +12,9 @@
     }
   ],
   "require": {
-    "php": ">= 5.6",
-    "nette/finder": "^2.4",
-    "nette/neon": "^2.4"
+    "php": ">= 8.2",
+    "nette/finder": "3.*",
+    "nette/neon": "3.4.3"
   },
   "autoload": {
     "psr-4": {
